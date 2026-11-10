@@ -1,0 +1,19 @@
+Library
+Logs
+UserSettings
+/*.sln
+/.vsconfig
+Temp
+/bin
+/obj
+/.vs
+/hooks
+/lfs
+StreamingAssets
+/.utmp
+/*.csproj
+Recordings
+*.apk
+*_BurstDebugInformation_DoNotShip
+# Copernicus DEM tiles for the horizon bake (horizon_obj.py), ~40 MB each
+/Assets/HorizonLine/tif~/
